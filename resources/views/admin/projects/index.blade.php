@@ -6,10 +6,10 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="text-center mb-4">All my Projects</h1>
+                <h1 class="text-center mb-4 mt-3">All my Projects</h1>
             </div>
             <div class="col-12 mb-3 text-end">
-                <a href="{{ route('admin.projects.create') }}" class="btn btn-info text-white me-4">Add New Project</a>
+                <a class="btn btn-info text-white me-4">Add New Project</a>
             </div>
             <div class="col-12">
                 <table class="table">
@@ -27,10 +27,10 @@
                             <tr>
                                 <th scope="row">{{ $project->author }}</th>
                                 <td>{{ $project->title }}</td>
-                                <td>Premi su Load More per saperne di più</td>
+                                <td>Premi su Load More per saperne di più sul contenuto di questo progetto</td>
                                 <td>{{ $project->date }}</td>
                                 <td>
-                                    <a class="btn btn-primary">Load More</a>
+                                    <a class="btn btn-primary" href="{{ route('admin.projects.show', $project) }}">Load More</a>
                                     <a class="btn btn-success">Edit</a>
                                     <button type="button" class="btn btn-danger" data-bs-toggle="modal">Delete</button>
                                 </td>

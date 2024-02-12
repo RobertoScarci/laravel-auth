@@ -17,42 +17,60 @@ class ProjectSeeder extends Seeder
             array(
                 'autore' => 'Roberto Scarci',
                 'titolo' => 'Boolzapp',
-                'contenuto' => 'Creazione interattiva di un modello molto semplice e racchiuso in poco codice che rappresenta un whatsapp in maniera alternativa.',
+                'contenuto' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, veniam consequuntur assumenda nulla, exercitationem magnam nihil porro laboriosam minus, placeat incidunt dolor sunt! Quos iste fugit, dolorem illo aperiam ipsam?
+                Veritatis quaerat consequatur inventore ab amet debitis modi error autem, officia voluptate quas excepturi ducimus eius nulla labore molestiae nam totam temporibus quos obcaecati! Dolores quam ipsa quaerat error inventore!
+                Minima animi praesentium odio reprehenderit esse sed quae optio alias architecto nostrum. Possimus quis unde sed nulla quas, ad totam ab animi neque doloremque nesciunt optio magnam illum molestiae consequatur?
+                Esse modi laborum fuga adipisci. Explicabo dicta repudiandae aut aperiam eligendi, soluta quod. Minima recusandae at modi vitae. Saepe doloremque sequi quos, molestiae consequatur voluptas veritatis nisi officiis consectetur obcaecati.',
                 'immagine' => 'https://screenshots.codesandbox.io/x6xlrv/2.png',
                 'data' => '2023-07-12'
             ),
             array(
                 'autore' => 'Roberto Scarci',
                 'titolo' => 'Boolzapp',
-                'contenuto' => 'Creazione interattiva di un modello molto semplice e racchiuso in poco codice che rappresenta un whatsapp in maniera alternativa.',
+                'contenuto' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, veniam consequuntur assumenda nulla, exercitationem magnam nihil porro laboriosam minus, placeat incidunt dolor sunt! Quos iste fugit, dolorem illo aperiam ipsam?
+                Veritatis quaerat consequatur inventore ab amet debitis modi error autem, officia voluptate quas excepturi ducimus eius nulla labore molestiae nam totam temporibus quos obcaecati! Dolores quam ipsa quaerat error inventore!
+                Minima animi praesentium odio reprehenderit esse sed quae optio alias architecto nostrum. Possimus quis unde sed nulla quas, ad totam ab animi neque doloremque nesciunt optio magnam illum molestiae consequatur?
+                Esse modi laborum fuga adipisci. Explicabo dicta repudiandae aut aperiam eligendi, soluta quod. Minima recusandae at modi vitae. Saepe doloremque sequi quos, molestiae consequatur voluptas veritatis nisi officiis consectetur obcaecati.',
                 'immagine' => 'https://screenshots.codesandbox.io/x6xlrv/2.png',
                 'data' => '2023-07-12'
             ),
             array(
                 'autore' => 'Roberto Scarci',
                 'titolo' => 'Boolzapp',
-                'contenuto' => 'Creazione interattiva di un modello molto semplice e racchiuso in poco codice che rappresenta un whatsapp in maniera alternativa.',
+                'contenuto' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, veniam consequuntur assumenda nulla, exercitationem magnam nihil porro laboriosam minus, placeat incidunt dolor sunt! Quos iste fugit, dolorem illo aperiam ipsam?
+                Veritatis quaerat consequatur inventore ab amet debitis modi error autem, officia voluptate quas excepturi ducimus eius nulla labore molestiae nam totam temporibus quos obcaecati! Dolores quam ipsa quaerat error inventore!
+                Minima animi praesentium odio reprehenderit esse sed quae optio alias architecto nostrum. Possimus quis unde sed nulla quas, ad totam ab animi neque doloremque nesciunt optio magnam illum molestiae consequatur?
+                Esse modi laborum fuga adipisci. Explicabo dicta repudiandae aut aperiam eligendi, soluta quod. Minima recusandae at modi vitae. Saepe doloremque sequi quos, molestiae consequatur voluptas veritatis nisi officiis consectetur obcaecati.',
                 'immagine' => 'https://screenshots.codesandbox.io/x6xlrv/2.png',
                 'data' => '2023-07-12'
             ),
             array(
                 'autore' => 'Roberto Scarci',
                 'titolo' => 'Boolzapp',
-                'contenuto' => 'Creazione interattiva di un modello molto semplice e racchiuso in poco codice che rappresenta un whatsapp in maniera alternativa.',
+                'contenuto' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, veniam consequuntur assumenda nulla, exercitationem magnam nihil porro laboriosam minus, placeat incidunt dolor sunt! Quos iste fugit, dolorem illo aperiam ipsam?
+                Veritatis quaerat consequatur inventore ab amet debitis modi error autem, officia voluptate quas excepturi ducimus eius nulla labore molestiae nam totam temporibus quos obcaecati! Dolores quam ipsa quaerat error inventore!
+                Minima animi praesentium odio reprehenderit esse sed quae optio alias architecto nostrum. Possimus quis unde sed nulla quas, ad totam ab animi neque doloremque nesciunt optio magnam illum molestiae consequatur?
+                Esse modi laborum fuga adipisci. Explicabo dicta repudiandae aut aperiam eligendi, soluta quod. Minima recusandae at modi vitae. Saepe doloremque sequi quos, molestiae consequatur voluptas veritatis nisi officiis consectetur obcaecati.',
                 'immagine' => 'https://screenshots.codesandbox.io/x6xlrv/2.png',
                 'data' => '2023-07-12'
             ),
             array(
                 'autore' => 'Roberto Scarci',
                 'titolo' => 'Boolzapp',
-                'contenuto' => 'Creazione interattiva di un modello molto semplice e racchiuso in poco codice che rappresenta un whatsapp in maniera alternativa.',
+                'contenuto' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, veniam consequuntur assumenda nulla, exercitationem magnam nihil porro laboriosam minus, placeat incidunt dolor sunt! Quos iste fugit, dolorem illo aperiam ipsam?
+                Veritatis quaerat consequatur inventore ab amet debitis modi error autem, officia voluptate quas excepturi ducimus eius nulla labore molestiae nam totam temporibus quos obcaecati! Dolores quam ipsa quaerat error inventore!
+                Minima animi praesentium odio reprehenderit esse sed quae optio alias architecto nostrum. Possimus quis unde sed nulla quas, ad totam ab animi neque doloremque nesciunt optio magnam illum molestiae consequatur?
+                Esse modi laborum fuga adipisci. Explicabo dicta repudiandae aut aperiam eligendi, soluta quod. Minima recusandae at modi vitae. Saepe doloremque sequi quos, molestiae consequatur voluptas veritatis nisi officiis consectetur obcaecati.',
                 'immagine' => 'https://screenshots.codesandbox.io/x6xlrv/2.png',
                 'data' => '2023-07-12'
             ),
             array(
                 'autore' => 'Roberto Scarci',
                 'titolo' => 'Boolzapp',
-                'contenuto' => 'Creazione interattiva di un modello molto semplice e racchiuso in poco codice che rappresenta un whatsapp in maniera alternativa.',
+                'contenuto' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, veniam consequuntur assumenda nulla, exercitationem magnam nihil porro laboriosam minus, placeat incidunt dolor sunt! Quos iste fugit, dolorem illo aperiam ipsam?
+                Veritatis quaerat consequatur inventore ab amet debitis modi error autem, officia voluptate quas excepturi ducimus eius nulla labore molestiae nam totam temporibus quos obcaecati! Dolores quam ipsa quaerat error inventore!
+                Minima animi praesentium odio reprehenderit esse sed quae optio alias architecto nostrum. Possimus quis unde sed nulla quas, ad totam ab animi neque doloremque nesciunt optio magnam illum molestiae consequatur?
+                Esse modi laborum fuga adipisci. Explicabo dicta repudiandae aut aperiam eligendi, soluta quod. Minima recusandae at modi vitae. Saepe doloremque sequi quos, molestiae consequatur voluptas veritatis nisi officiis consectetur obcaecati.',
                 'immagine' => 'https://screenshots.codesandbox.io/x6xlrv/2.png',
                 'data' => '2023-07-12'
             ),
@@ -69,3 +87,5 @@ class ProjectSeeder extends Seeder
             }
     }
 }
+
+
