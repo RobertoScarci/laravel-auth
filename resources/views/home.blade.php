@@ -14,9 +14,11 @@
     <div class="row">
         <div id="carouselExample" class="carousel slide">
             <div class="carousel-inner">
+            <a href="{{ route('admin.projects.index') }}">
               <div class="carousel-item active">
                 <img src="https://vitolavecchia.altervista.org/wp-content/uploads/2018/12/Project-Management-Che-cos%C3%A8-un-progetto-960x412.png" class="d-block w-100" alt="...">
               </div>
+            </a>
               <div class="carousel-item">
                 <img src="https://retorica.net/wp-content/uploads/2017/11/html-css.png" class="d-block w-100" alt="...">
               </div>
