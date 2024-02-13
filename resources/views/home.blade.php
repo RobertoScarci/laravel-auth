@@ -16,7 +16,10 @@
             <div class="carousel-inner">
             <a href="{{ route('admin.projects.index') }}">
               <div class="carousel-item active">
-                <img src="https://vitolavecchia.altervista.org/wp-content/uploads/2018/12/Project-Management-Che-cos%C3%A8-un-progetto-960x412.png" class="d-block w-100" alt="...">
+                <img src="https://brainsensei.com/wp-content/uploads/2022/06/PM-in-front-of-floating-gantt-chart.png" class="d-block w-100 position-relative" alt="...">
+                <div>
+                  <button class="position-absolute top-50 start-50 translate-middle btn-primary btn">Go to Projects</button>
+                </div>
               </div>
             </a>
               <div class="carousel-item">
